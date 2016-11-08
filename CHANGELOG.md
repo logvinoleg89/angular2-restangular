@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.0.7"></a>
+## 0.0.7 (2016-11-08)
+
+
+
 <a name="0.5.2"></a>
 ## [0.5.2](https://github.com/mattlewis92/angular-resizable-element/compare/v0.5.1...v0.5.2) (2016-11-05)
 
