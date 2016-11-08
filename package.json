@@ -18,7 +18,8 @@
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "typedoc": "typedoc --options typedoc.json src/*.ts",
     "gh-pages": "git checkout gh-pages && git merge master && npm run build:demo && npm run typedoc && git add . && git commit -m 'chore: build demo and docs' && git push && git checkout master",
-    "prepublish": "standard-version --first-release && git push --follow-tags origin master && npm run build:dist"
+    "prepublish": "standard-version --first-release && git push --follow-tags origin master && npm run build:dist",
+    "postpublish": "npm run build:clean"
   },
   "repository": {
     "type": "git",
