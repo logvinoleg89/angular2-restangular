@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.0.12"></a>
+## [0.0.12](https://github.com/2muchcoffeecom/ng2-restangular/compare/v0.0.11...v0.0.12) (2016-11-08)
+
+
+
 <a name="0.0.11"></a>
 ## [0.0.11](https://github.com/2muchcoffeecom/ng2-restangular/compare/v0.0.9...v0.0.11) (2016-11-08)
 
