@@ -1,6 +1,6 @@
 {
   "name": "angular2-restangular",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "description": "ng2-restangular",
   "main": "./dist/umd/ng2-restangular.js",
   "module": "./dist/esm/src/index.js",
